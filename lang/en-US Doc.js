@@ -5,7 +5,7 @@ export default {
     jobs: 'Jobs',
     legal_mentions: 'Legal mentions',
     become_a_partner: 'Become a partner',
-    become_a_customer: 'Become a customer'
+    become_a_customer: 'Become a Customer'
   },
   index: {
     about: {
